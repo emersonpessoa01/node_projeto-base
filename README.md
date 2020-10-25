@@ -2,7 +2,7 @@
 Não é preciso baixar as dependências. Basta fazer:<br>
 
 `-download`<br>
-`-yarn start`<br>
+`-npm start`<br>
 
 Obs: <br> :speech_balloon:
 Criar um novo reposítório e vincula a pasta local ao repositório remoto:<br>
